@@ -1,0 +1,11 @@
+Coloque aqui os logos (PNG, fundo transparente ou branco, ~300x120 px) com EXATAMENTE estes nomes:
+
+einstein.png  ->  Hospital Israelita Albert Einstein
+sirio-libanes.png  ->  Hospital Sírio-Libanês São Paulo
+oswaldo-cruz.png  ->  Hospital Alemão Oswaldo Cruz
+beneficencia-portuguesa.png  ->  Beneficência Portuguesa
+9-de-julho.png  ->  Hospital 9 de Julho
+sao-luiz.png  ->  Rede D'Or São Luiz
+leforte-morumbi.png  ->  Hospital Leforte Morumbi
+
+Enquanto o arquivo não existir, o site mostra apenas o nome do hospital.
